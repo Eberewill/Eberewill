@@ -1,37 +1,29 @@
-# My Resume
+# Hi, I'm Williams 👋
+(You can include a profile picture here)
 
-This is my resume. It contains information about my education, skills, and experience.
+## 🚀 About Me
+I'm a full-stack developer who loves coding, Blockchain technologies, and AI!
 
-## Education
+👀 I'm interested in all things data - big data, distributed systems, and machine learning.
 
-* Bachelor of Science in Computer Science from The Federal Polytechnic Nasarawa, Nasarawa, Nigeria
+🌱 I'm currently learning everything!
 
-## Skills
+💞️ I'm looking to collaborate on challenging projects.
 
-* React JS
-* HTML/CSS
-* JavaScript
-* Typescript
-* Node.js
-* Express.js
-* java
-* Sql
-* Graphql
-* Ethers js /Web3 js
-* Basic solidity
-* MongoDB
-* Git
-* Agile development
+## 🛠 Skills 
+JavaScript, Typescript, React, Node, React-native, Mongo Db, Postgres, Express, RestGraphQL API Java,...
 
-## Experience
 
-* Full Stack Web Developer at Rigel Protocol (July 2021 - March 2023)
-* Full-Stack Developer at Aria Spectre (Freelance Project) (July 2021 - November 2021)
-* Back-End Developer at Avance Venture Lab (Freelance Project) (January 2021 - June 2021)
-* Web Developer at Wills Smart Technology (Contract) (November 2019 - December 2020)
-* Junior Web Developer at Centrifuge Group (Internship) (September 2017 - September 2018)
+## 🌱 I'm currently learning AI and Machine Learning 
 
-## Contact Information
 
-* Email: eberewill@gmail.com
-* LinkedIn: https://www.linkedin.com/in/williams-eberechi-iroh/
+## 📪 How to Reach Me 
+
+- LinkedIn: [Williams Eberechi Iroh](https://www.linkedin.com/in/williams-eberechi-iroh/)
+- Email: [eberewill@gmail.com]
+
+## 📝 Blog-posts
+
+I love writing about my thoughts on technology, you can read my blogs on [Medium](https://medium.com/@eberewill)
+
+

@@ -11,7 +11,7 @@ I'm a full-stack developer who loves coding, Blockchain technologies, and AI!
 💞️ I'm looking to collaborate on challenging projects.
 
 ## 🛠 Skills 
-JavaScript, Typescript, React, Node, React-native, Mongo Db, Postgres, Express, RestGraphQL API Java,...
+JavaScript, Typescript, Golang, sveltekit, React, Node, React-native, Mongo Db, Postgres, Express, RestGraphQL API Java,...
 
 
 ## 🌱 I'm currently learning AI and Machine Learning 

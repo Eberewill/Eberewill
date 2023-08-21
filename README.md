@@ -19,7 +19,7 @@ JavaScript, Typescript, Golang, sveltekit, React, Node, React-native, Mongo Db, 
 
 ## 📪 How to Reach Me 
 
-- LinkedIn: [Williams Eberechi Iroh](https://www.linkedin.com/in/williams-eberechi-iroh/)
+- LinkedIn: [Williams Eberechi](https://www.linkedin.com/in/williams-eberechi-iroh/)
 - Email: [eberewill@gmail.com]
 
 ## 📝 Blog-posts

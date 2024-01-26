@@ -2,19 +2,16 @@
 (You can include a profile picture here)
 
 ## 🚀 About Me
-I'm a full-stack developer who loves coding, Blockchain technologies, and AI!
+I'm a senior Fulstack dev with more focus on frontend development, including React and Svelte kit
 
-👀 I'm interested in all things data - big data, distributed systems, and machine learning.
+👀 I'm interested in product development, designs and user-centric systems 
 
-🌱 I'm currently learning everything!
+🌱 I'm currently learning everything including AI for Dev!
 
 💞️ I'm looking to collaborate on challenging projects.
 
 ## 🛠 Skills 
-JavaScript, Typescript, Golang, sveltekit, React, Node, React-native, Mongo Db, Postgres, Express, RestGraphQL API Java,...
-
-
-## 🌱 I'm currently learning AI and Machine Learning 
+JavaScript, Typescript, React, Golang, sveltekit, Node js, cloud services, GitHub, Docker, React-native, Mongo Db, Postgres, Express, Rest and GraphQL API,...
 
 
 ## 📪 How to Reach Me 

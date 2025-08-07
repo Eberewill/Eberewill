@@ -23,4 +23,7 @@ JavaScript, Typescript, React, Golang, sveltekit, Node js, cloud services, GitHu
 
 I love writing about my thoughts on technology, you can read my blogs on [Medium](https://medium.com/@eberewill)
 
+##Notes
+I have been mostly working on projects on Azure DevOps and mostly been using the company's git accounts for commits, so my recent commits might be empty  
+
 

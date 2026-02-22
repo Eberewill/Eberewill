@@ -7,7 +7,7 @@ Experienced Software Engineer with a proven track record of architecting high-pe
 
 ### 🚀 At a Glance
 *   🔭 **Currently:** Building **NaijaTalk AI**, an AIaaS ecosystem designed to revolutionize African customer engagement.
-*   🏢 **Professional Experience:** Software Engineer at **Connect Hive**, formerly Senior Full-Stack Lead at **Emote Care (UK)**.
+*   🏢 **Professional Experience:** Software Engineer at **Connect Hive**, formerly Senior Full-Stack Dev at **Emote Care (UK)**.
 *   🧠 **Specializations:** Distributed Systems, Custom Protocols (SMTP/gRPC), and LLM Reasoning Agents.
 *   🌱 **Exploring:** Machine Vision and Embedded Systems for industrial automation.
 

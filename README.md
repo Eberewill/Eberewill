@@ -6,9 +6,9 @@ Experienced Software Engineer with a proven track record of architecting high-pe
 ---
 
 ### 🚀 At a Glance
-*   🔭 **Currently:** Building **NaijaTalk AI**, an AIaaS ecosystem designed to revolutionize African customer engagement.
+*   🔭 **Currently:** Building products at **[Witel (Willex Information Technology Limited)](https://willextech.com)** for digital transformation and AI adoption, including **NaijaTalk AI**.
 *   🏢 **Professional Experience:** Software Engineer at **Connect Hive**, formerly Senior Full-Stack Dev at **Emote Care (UK)**.
-*   🧠 **Specializations:** Distributed Systems, Custom Protocols (SMTP/gRPC), and LLM Reasoning Agents.
+*   🧠 **Specializations:** Full-stack application development, AI and automation, frontend engineering, high-availability systems, scalable architectures, AI orchestration, and technical architecture.
 *   🌱 **Exploring:** Machine Vision and Embedded Systems for industrial automation.
 
 ---
@@ -17,12 +17,14 @@ Experienced Software Engineer with a proven track record of architecting high-pe
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Go (Golang), Python, TypeScript, JavaScript (ES6+). |
+| **Languages** | JavaScript, TypeScript, Python, Go (Golang). |
 | **Backend & Infrastructure** | FastAPI, NestJS, Node.js, gRPC, Docker, Kubernetes, AWS (Lambda, S3, RDS), Terraform. |
 | **Frontend & Mobile** | React, Next.js, SvelteKit, React Native, Tailwind CSS, Framer Motion. |
 | **Data & Persistence** | PostgreSQL, MongoDB, Redis, Pinecone (Vector DB), SQLAlchemy, Prisma. |
-| **Architecture** | Event-Driven Architecture (EDA), Clean/Hexagonal Architecture, Microservices, SOLID Principles. |
-| **AI & Automation** | OpenAI API, Gemini 3.0, LangChain, LangGraph, custom SMTP handlers. |
+| **Architecture** | Event-Driven Architecture (EDA), Clean/Hexagonal Architecture, Microservices, SOLID Principles, scalable and high-availability system design. |
+| **AI & Automation** | OpenAI API, Gemini, LangChain, LangGraph, AI orchestration workflows, intelligent automation systems. |
+| **DevOps** | CI/CD (GitHub Actions), containerized deployments, environment management, observability and production reliability practices. |
+| **Project Management** | Product planning, Agile/Scrum collaboration, roadmap definition, technical delivery ownership, stakeholder communication. |
 
 ---
 
@@ -31,8 +33,11 @@ Experienced Software Engineer with a proven track record of architecting high-pe
 #### [**Go-LLM-Nexus**](https://github.com/Eberewill/go-llm-nexus)
 A production-grade AI gateway demonstrating **Clean Architecture**. Supports dynamic provider switching (OpenAI/Gemini) with real-time usage analytics and Redis-based caching.
 
-#### [**OmniMail API**](https://github.com/Eberewill/omnimail-api)
-A specialized, multi-tenant mail engine. Features a custom **SMTP Ingress Handler** in Python and a real-time **Webhook Trigger system**, proving deep expertise in low-level protocol handling.
+#### [**GitCDN Lever**](https://github.com/Eberewill/gitcdn-lever)
+A lightweight GitHub-powered asset CDN manager that lets users upload repository assets and instantly generate public jsDelivr links with secure OAuth-based access.
+
+#### [**CodeGPT**](https://github.com/Eberewill/codegpt)
+A modern AI chat application with real-time streaming responses, persistent chat history, and a Vercel edge backend proxy for secure model integration.
 
 #### [**DigitVotes**](https://github.com/Eberewill/digitVotes)
 An Ethereum-based e-voting system utilizing smart contracts for decentralized governance, paired with a React/Redux frontend.
@@ -42,7 +47,7 @@ An Ethereum-based e-voting system utilizing smart contracts for decentralized go
 ### 📝 Technical Writing & Insights
 I enjoy distilling complex architectural concepts into readable insights.
 *   Read my latest thoughts on **[Medium](https://medium.com/@eberewill)**
-*   Featured Guide: **[Understanding the Global Mailing System](https://github.com/Eberewill/omnimail-api/blob/master/MAIL_SYSTEM_GUIDE.md)**
+*   I regularly document architecture decisions, product strategy, and AI implementation patterns across my repositories.
 
 ---
 

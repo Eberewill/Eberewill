@@ -39,6 +39,9 @@ A lightweight GitHub-powered asset CDN manager that lets users upload repository
 #### [**CodeGPT**](https://github.com/Eberewill/codegpt)
 A modern AI chat application with real-time streaming responses, persistent chat history, and a Vercel edge backend proxy for secure model integration.
 
+#### [**AI Assist Widget**](https://github.com/Eberewill/ai-assist-widget)
+A lightweight macOS overlay assistant built with Electron + React + Vite that captures screen context and provides concise technical help via multiple AI providers (Codex, Gemini, and Kimi).
+
 #### [**DigitVotes**](https://github.com/Eberewill/digitVotes)
 An Ethereum-based e-voting system utilizing smart contracts for decentralized governance, paired with a React/Redux frontend.
 
